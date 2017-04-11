@@ -2,7 +2,7 @@
 title: "Example Anonymous Classes In PHP 7"
 layout: post
 tag:
-- php
+- Php
 comments: true
 author: nurulfajar
 ---

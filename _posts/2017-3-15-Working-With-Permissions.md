@@ -3,7 +3,7 @@ title: "Working With Permissions"
 layout: post
 tag:
 - Linux
-- partition
+- Partition
 comments: true
 author: nurulfajar
 ---

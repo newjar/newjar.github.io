@@ -3,7 +3,7 @@ title: "Various Directory of Linux System"
 layout: post
 tag:
 - Linux
-- partition
+- Partition
 comments: true
 author: nurulfajar
 ---

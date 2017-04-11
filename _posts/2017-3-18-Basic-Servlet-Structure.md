@@ -2,7 +2,7 @@
 title: "Basic Servlets Structure"
 layout: post
 tag:
-- java
+- Java
 - Servlets
 comments: true
 author: nurulfajar

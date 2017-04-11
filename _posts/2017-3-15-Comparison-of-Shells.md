@@ -2,7 +2,7 @@
 title: "Comparison of Shells"
 layout: post
 tag:
-- linux
+- Linux
 comments: true
 author: nurulfajar
 ---

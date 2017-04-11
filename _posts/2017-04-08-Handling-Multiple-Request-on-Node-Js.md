@@ -2,8 +2,8 @@
 title: "Handling Multiple Data Request on Node.js"
 layout: post
 tag:
-- javascript
-- nodejs
+- Javascript
+- Nodejs
 comments: true
 author: nurulfajar
 ---

@@ -3,7 +3,7 @@ title: "Configure Telnet and SSH on Cisco Packet Tracer"
 layout: post
 tag:
 - Cisco
-- networking
+- Networking
 comments: true
 author: nurulfajar
 ---
