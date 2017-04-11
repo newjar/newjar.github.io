@@ -1,10 +1,10 @@
 ---
+title: "Learning Basic Linux Commands"
 layout: post
+tag:
+- Linux
 comments: true
-title: Learning Basic Linux Commands
-description: "Basic linux commands for daily use"
-published: true
-tags: [linux]
+author: nurulfajar
 ---
 | **Command**             | **Description**            															  |
 | ---------------- 	|:-----------------------------------------------------------------------------------|

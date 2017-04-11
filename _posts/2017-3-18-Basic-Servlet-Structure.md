@@ -1,10 +1,11 @@
 ---
+title: "Basic Servlets Structure"
 layout: post
+tag:
+- java
+- Servlets
 comments: true
-title: Basic Servlet Structure
-description: "Example beginner servlet code"
-published: true
-tags: [java, servlets]
+author: nurulfajar
 ---
 
 outlines a basic servlet that handles GET requests. GET requests, for those

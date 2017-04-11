@@ -1,10 +1,11 @@
 ---
+title: "Configure Telnet and SSH on Cisco Packet Tracer"
 layout: post
+tag:
+- Cisco
+- networking
 comments: true
-title: Configure Telnet and SSH on Cisco Packet Tracer
-description: "Easy setup telnet & SSH on cisco"
-published: true
-tags: [cisco, networking]
+author: nurulfajar
 ---
 To enable telnet or SSH on Cisco router, simply do it with “line vty” command.
 lets Configure:

@@ -1,10 +1,10 @@
 ---
+title: "Example Anonymous Classes In PHP 7"
 layout: post
+tag:
+- php
 comments: true
-title: Example Anonymous Classes In PHP 7
-description: "In PHP 7 Anonymous classes can now be defined using new class"
-publised: true
-tags: [php]
+author: nurulfajar
 ---
 
 In PHP 7 Anonymous classes can now be defined using new class. Anonymous class can be used in place of a full class definition.

@@ -1,10 +1,10 @@
 ---
+title: "Working More Effectively With Shell Basic Commands"
 layout: post
+tag:
+- Linux
 comments: true
-title: Working more effectively with shell – basic commands
-description: "Learn a few commands, which are required very often, such as man, echo, cat and similar"
-published: true
-tags: [linux]
+author: nurulfajar
 ---
 - Enter the following command. It will show the various types of manual.
 pages displayed by the man command:

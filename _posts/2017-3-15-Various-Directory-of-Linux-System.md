@@ -1,10 +1,11 @@
 ---
+title: "Various Directory of Linux System"
 layout: post
+tag:
+- Linux
+- partition
 comments: true
-title: Various Directory of Linux System
-description: "Learn more about directory of linux system"
-published: true
-tags: [linux, partition]
+author: nurulfajar
 ---
 
 - /bin/   : This contains commands used by a regular user.

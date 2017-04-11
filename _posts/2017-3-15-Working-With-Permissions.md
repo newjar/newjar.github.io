@@ -1,10 +1,11 @@
 ---
+title: "Working With Permissions"
 layout: post
+tag:
+- Linux
+- partition
 comments: true
-title: Working with permissions
-description: "Learning manage file & folder permissions on linux"
-published: true
-tags: [linux, partition]
+author: nurulfajar
 ---
 
 ### The following are the types of permissions:

@@ -1,10 +1,11 @@
 ---
+title: "Recovery Corrupted Superblock Partition on Ubuntu"
 layout: post
+tag:
+- linux
+- partition
 comments: true
-title: Recovery Corrupted Superblock Partition on Ubuntu
-description: "Easy recovery corrupted superblock partition ubuntu"
-published: true
-tags: [linux, partition]
+author: nurulfajar
 ---
 
 Hari ini ketika saya menyalakan Komputer tiba-tiba saja Ubuntu saya gagal booting.   

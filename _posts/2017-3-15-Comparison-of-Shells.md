@@ -1,10 +1,10 @@
 ---
+title: "Comparison of Shells"
 layout: post
+tag:
+- linux
 comments: true
-title: Comparison of Shells
-description: "shells of linux system"
-published: true
-tags: [linux]
+author: nurulfajar
 ---
 Initially, the UNIX OS used a shell program called **Bourned Shell**. Then eventually, many more shell programs were developed for different flavors of UNIX. The following is brief information about different shells:
 

@@ -1,10 +1,11 @@
 ---
+title: "Configure DHCP Server on Cisco Packet Tracer"
 layout: post
 comments: true
-title: Configure DHCP Server on Cisco Packet Tracer
-description: "Konfigurasi DHCP Server menggunakan 1 buah router, switch dan hub"
-published: true
-tags: [cisco, networking]
+tag:
+- cisco
+- networking
+author: nurulfajar
 ---
 Konfigurasi DHCP Server menggunakan 1 buah router, switch dan hub.
 

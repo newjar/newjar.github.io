@@ -1,10 +1,11 @@
 ---
+title: "Handling Multiple Data Request on Node.js"
 layout: post
+tag:
+- javascript
+- nodejs
 comments: true
-title: Example Handling Multiple Request on Node Js
-description: "Example code handling multiple data request"
-published: true
-tags: [javascript, nodejs]
+author: nurulfajar
 ---
 
 Example code :

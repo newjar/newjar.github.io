@@ -1,10 +1,10 @@
 ---
+title: "Ruby Source Code Layout"
 layout: post
+tag:
+- Ruby
 comments: true
-title: Basic Ruby Source Code Layout
-description: "Example good ruby source code layout"
-published: true
-tags: [ruby]
+author: nurulfajar
 ---
 
 * Use UTF-8 as the Source file encoding.

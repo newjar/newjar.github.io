@@ -1,10 +1,10 @@
 ---
+title: "Basic Ruby Syntax"
 layout: post
+tag:
+- Ruby
 comments: true
-title: Basic Ruby Syntax
-description: "Sample good syntax on ruby"
-published: true
-tags: [ruby]
+author: nurulfajar
 ---
 
 * Use :: only to reference constants(this includes classes and modules) and constructors (like Array() or Nokogiri::HTML()). Do not use :: for regular method invocation.
