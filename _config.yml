@@ -52,11 +52,11 @@ medium: #
 email: 1511502369@student.budiluhur.ac.id
 
 authors:
-    newjar:
+    nurulfajar:
         name: Nurul Fajar
-        bio: Daily Development Blog
+        bio: Mahasiswa banyak acara
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/nfajar.jpg
         twitter: ajaywl
 
 # do you want a larger site? change the option below
