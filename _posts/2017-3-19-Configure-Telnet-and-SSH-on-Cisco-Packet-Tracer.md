@@ -12,11 +12,11 @@ lets Configure:
 
 * ### First create topology Network. and set a static IP for PC client, router and switch. See the picture below.
 
-![file.png]({{site.baseurl}}/assets/images/topology.png)
+![file.png]({{site.baseurl}}/assets/images/cisco/topology.png)
 
 * ### Go to Router0 console and configure Hostname, Secret password and telnet with “line vty” command.
 
-![file.png]({{site.baseurl}}/assets/images/router-telnet-config.png)
+![file.png]({{site.baseurl}}/assets/images/cisco/router-telnet-config.png)
 
 * "**Enable secret 'your password'**" command for your router password user privileges.
 * The “**line vty**” command enable the telnet and the “**0**″ is just let a single line or session to the router.
@@ -27,12 +27,12 @@ If you need more session simultaneously, you must type “**line vty 0 10**“, 
 * ### Testing Telnet Connectivity.
 Let’s test telnet from the admin or client PC. Type telnet 192.168.1.1 and press enter, then enter the telnet username & password. Next type enable command and press enter, then type the router password.
 
-![file.png]({{site.baseurl}}/assets/images/telnet.png)
+![file.png]({{site.baseurl}}/assets/images/cisco/telnet.png)
 * Now you are remotely connected to router R1 and you can execute all router commands through telnet command line interface.
 
 * ### SSH Configuration.
 
-![file.png]({{site.baseurl}}/assets/images/ssh-configuration.png)
+![file.png]({{site.baseurl}}/assets/images/cisco/ssh-configuration.png)
 
 * "**line vte 1 3**" <~ this command will set only line 1 to 3 Virtual Teminal Lines can access SSH.
 * “**username budi password luhur**” <~ this your username and password for SSH access.
@@ -42,6 +42,6 @@ Let’s test telnet from the admin or client PC. Type telnet 192.168.1.1 and pre
 * ### Testing SSH Connectivity
 From a client PC, open the command line and type “**ssh -l budi 192.168.1.1**” then press enter.
 
-![file.png]({{site.baseurl}}/assets/images/ssh.png)
+![file.png]({{site.baseurl}}/assets/images/cisco/ssh.png)
 
 Now we have connected successfully and the connection is secured with Secure Shell.
