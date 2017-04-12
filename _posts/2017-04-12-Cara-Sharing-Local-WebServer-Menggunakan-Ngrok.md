@@ -10,7 +10,7 @@ comments: true
 author: nurulfajar
 ---
 
-Sebelumnya kita kenalan dulu apa sih Ngrok itu?, Ngrok adalah multiplatform tunnelling, sebuah reverse proxy software yang mampu membuat sebuah local server menjadi public. Ngrok berbasis open source, kita bisa memodifikasinya sesuai kebutuhan. Source code-nya dapat diakses di [Github](https://github.com/inconshreveable/ngrok).
+Sebelumnya kita kenalan dulu apa sih Ngrok itu?, Ngrok adalah multiplatform tunnelling, sebuah reverse proxy software yang mampu membuat sebuah local server menjadi public. Ngrok berbasis open source, kita bisa memodifikasinya sesuai kebutuhan. Source code-nya dapat diakses di [Github](https://github.com/inconshreveable/ngrok){:target="_blank"}.
 Ngrok ini cukup membantu saya saat sedang ada project ataupun sekedar mengerjakan tugas.
 
 Langsung saja kita praktekan cara kerja Ngrok.
@@ -29,7 +29,7 @@ Langsung saja kita praktekan cara kerja Ngrok.
 - Setelah di Extract, lalu masuk ke Direktorinya. Dan pastikan WebServer kalian sudah aktif.
 Pada direktori Ngrok, tekan Shift + klik Kanan (untuk Windows) lalu pilih "Open command window here". untuk di Linux klik kanan lalu Open terminal here.
 
-![file.png]({{site.baseurl}}/assets/images/ngrok/ngrok2.png)
+![file.png]({{site.baseurl}}/assets/images/ngrok/ngrok2.PNG)
 
 **Step-3**
 - Lalu ketik command, "ngrok.exe http (port)" pada case ini saya menggunakan port 8080 dari XAMPP. Kemudian kita akan mendapatkan alamat forwarding dari Ngrok, copy salah satu alamat tersebut dan paste di browser kalian.
