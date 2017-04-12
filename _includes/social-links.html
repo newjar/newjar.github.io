@@ -5,6 +5,12 @@
         </a>
     {% endif %}
 
+    {% if site.email %}
+        <a class="link" data-title="Email" href="mailto:{{ site.email }}">
+            <i class="fa fa-at fa-2x" aria-hidden="true"></i>
+        </a>
+    {% endif %}
+
     {% if site.twitter %}
         <a class="link" data-title="Twitter" href="http://twitter.com/{{ site.twitter }}" target="_blank">
             <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
@@ -89,9 +95,11 @@
         </a>
     {% endif %}
 
-    {% if site.email %}
-        <a class="link" data-title="Email" href="mailto:{{ site.email }}">
-            <i class="fa fa-at fa-2x" aria-hidden="true"></i>
+    {% if site.bitcoin %}
+        <a class="link" data-title="Bitcoin" href="bitcoin:{{ site.bitcoin }}">
+          <li class="fa fa-btc fa-2x" aria-hidden="true"></li>
         </a>
     {% endif %}
+
+
 </div>

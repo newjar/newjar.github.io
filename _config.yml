@@ -5,6 +5,7 @@ bio: Daily Development Blog
 # twitter summary info
 description: #
 
+donate: true
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -38,6 +39,7 @@ facebook: #
 twitter: ajaywl
 google: u/0/101508201628233919487
 instagram: nfajar_
+bitcoin: 1LqwLatuP8E7tWoN6CoBjtBocagcpqhewv
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube

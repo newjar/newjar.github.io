@@ -1,13 +1,15 @@
 {% if page.title == "Home"
    or page.title == "Blog"
-   or page.title == "Projects"
+   or page.title == "Donate"
    or page.title == "Tags"
+   or page.title == "Contact"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
+
         {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
+            <a class="link" href="{{ site.url }}/contact">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}

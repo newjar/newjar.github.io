@@ -24,9 +24,15 @@
                 </li>
         {% endif %}
 
-        {% if site.about == true %}
+        {% if site.donate == true %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/contact">Contact</a>
+                    <a class="link" href="{{ site.url }}/donate">Donate</a>
+                </li>
+        {% endif %}
+
+        {% if site.about == false %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/contact"></a>
                 </li>
         {% endif %}
 
