@@ -30,7 +30,7 @@ untuk distro lain silahkan lihat: [Disini](https://github.com/nvbn/thefuck/wiki/
 ```
 eval "$(thefuck --alias fuck)"
 ```
-- Kalian bisa mengganti kata setelah *alias* dengan apa saja. contoh diatas: *fuck* *:trollface*.
+- Kalian bisa mengganti kata setelah *alias* dengan apa saja. contoh diatas: *fuck* :trollface:
 
 - Close terminal dan buka kembali.
 
