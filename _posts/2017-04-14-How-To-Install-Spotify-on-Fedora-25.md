@@ -9,7 +9,7 @@ comments: true
 author: nurulfajar
 ---
 
-Since i moved my main linux distro from Ubuntu to Fedora, i'm felt a big different flavors. Ubuntu or Debian based distro is easy for software installation, but in fedora i feel a bit bleeding.
+Since i moved my main linux distro from Ubuntu to Fedora, i'm felt a big different flavors. Ubuntu or Debian based distro is easy for software installation, but on fedora i feel a bit bleeding.
 
 lets trying to install Spotify client on Fedora 25.
 
