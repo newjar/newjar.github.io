@@ -14,9 +14,9 @@ Since i moved my main linux distro from Ubuntu to Fedora, i'm felt a big differe
 lets trying to install Spotify client on Fedora 25.
 
 **Step-1**:
-* Download the latest rpmfusion-nonfree-release-stable rpm from.
+* Download the latest rpmfusion-nonfree-release-stable rpm from:
 ```
-http://download1.rpmfusion.org/nonfree/fedora/
+http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-25.noarch.rpm
 ```
 
 **Step-2**:
