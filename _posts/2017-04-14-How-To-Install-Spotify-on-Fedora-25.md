@@ -28,7 +28,7 @@ http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-25.noarc
 **Step-3**:
 * Install lpf-spotify-client rpm package:
 ```
-# dnf install lpf-spotify-client.
+# dnf install lpf-spotify-client
 ```
 
 **Step-4**:
