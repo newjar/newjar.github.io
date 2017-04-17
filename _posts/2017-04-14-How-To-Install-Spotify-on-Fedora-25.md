@@ -5,6 +5,7 @@ date: 2017-04-13 11:39
 tag:
 - Linux
 - Fedora
+- Installation
 comments: true
 author: nurulfajar
 ---
