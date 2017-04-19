@@ -37,14 +37,13 @@ layout: compress
                 <div class="{{ page.title | downcase }}">
             {% endif %}
         {% endif %}
-
+        {% include advertisements.html %}
             {{ content }}
         </div>
-        
+
     </div>
 
     {% include icons.html %}
-    {% include advertisements.html %}
     {% include analytics-google.html %}
 </body>
 </html>
