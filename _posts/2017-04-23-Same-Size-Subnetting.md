@@ -34,8 +34,8 @@ Cara kedua adalah dengan metode VLSM. disini kita tidak terikat lagi dengan satu
 **Network**|**Netmask**|**Net.ID**|**BC**|**Range IP**|**Host**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 DHCP Server|255.255.255.224|.0|.31|.1-30|30
-DHCP Router|255.255.255.240|.32|.63|.33-46|14
-IP Static|255.255.255.252|.64|.95|.65-66|2
+DHCP Router|255.255.255.240|.32|.47|.33-46|14
+IP Static|255.255.255.252|.48|.51|.49-50|2
 
 <br />
 Untuk table prefix lengkapnya bisa dilihat [Disini](https://www.aelius.com/njh/subnet_sheet.html){:target="_blank"}
