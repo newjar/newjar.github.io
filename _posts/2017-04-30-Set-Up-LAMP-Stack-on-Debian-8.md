@@ -29,7 +29,7 @@ Install Apache web server:
 $ sudo apt-get install apache2 apache2-doc
 ```
 Jika sudah selesai, kalian dapat menge-check nya dengan membuka browser, lalu ketik: <span class="evidence">localhost</span>. hasilnya akan seperti ini:
-![file.png]({{images.baseurl}}/assets/images/Linux/localhost.png)
+![file.png]({{images.baseurl}}/assets/images/linux/localhost.png)
 
 ### Step 3 - Install and Secure MySQL
 Install MySQL database:
@@ -37,7 +37,7 @@ Install MySQL database:
 $ sudo apt-get install mysql-server php5-mysql
 ```
 Ditengah proses install nanti akan muncul pop-up dialog untuk meng-input password untuk akses **root MySQL**.
-![file.png]({{images.baseurl}}/assets/images/Linux/mysql-pass.png)
+![file.png]({{images.baseurl}}/assets/images/linux/mysql-pass.png)
 
 isi sesuai keinginan lalu "Tab" > Enter.
 
