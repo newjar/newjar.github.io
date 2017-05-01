@@ -36,15 +36,12 @@ layout: page
         {% endif %}
     </div>
 {% endif %}
-{% include author.html %}
-
-{% include disqus.html %}
-
-
 {% if site.related %}
     {% include related.html %}
 {% endif %}
 
-{% if site.disqus.categories contains page.category %}
-    {% include disqus.html %}
+{% if site.show-author %}
+    {% include author.html %}
 {% endif %}
+
+{% include disqus.html %}
