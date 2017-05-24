@@ -9,7 +9,7 @@ tag:
 comments: true
 author: nurulfajar
 ---
-KVM adalah sebuah virtualisasi berbasis hardware intel untuk sistem operasi Linux. KVM berguna saat kita menjalankan sebuah emulator, dimana performa dari emulator tsb akan dipondasikan oleh hardware yang ada. Terutama untuk pengguna IDE Android Studio di OS Linux, karena fitur *Intel Hardware Accelerated Execution Manager (Intel® HAXM)* tidak dapat dijalankan di OS Linux, maka penggantinya kita dapat menggunakan KVM ini.
+KVM adalah sebuah virtualisasi berbasis hardware intel-v maupun AMD-v untuk sistem operasi Linux. KVM berguna saat kita menjalankan sebuah emulator, dimana performa dari emulator tsb akan dipondasikan oleh hardware yang ada. Terutama untuk pengguna IDE Android Studio di OS Linux, karena fitur *Intel Hardware Accelerated Execution Manager (Intel® HAXM)* tidak dapat dijalankan di OS Linux, maka penggantinya kita dapat menggunakan KVM ini.
 
 **Requirements**:
 + Pastikan sudah meng-install JDK
