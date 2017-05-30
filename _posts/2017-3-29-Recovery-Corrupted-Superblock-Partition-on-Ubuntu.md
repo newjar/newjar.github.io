@@ -3,6 +3,7 @@ title: "Recovery Corrupted Superblock Partition on Ubuntu"
 layout: post
 tag:
 - Linux
+- Ubuntu
 - Partition
 comments: true
 author: nurulfajar
