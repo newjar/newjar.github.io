@@ -1,5 +1,5 @@
 ---
-title: "Subnetting With FLSM and VLSM (wich better?)"
+title: "Subnetting With FLSM and VLSM (which better?)"
 layout: post
 date: 2017-04-23 14:35
 tag:
