@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Birthday Gift</title>
+  <link rel="stylesheet" href="./assets/css/box.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class='moon'>
+  <div class='crater1'></div>
+  <div class='crater2'></div>
+  <div class='crater3'></div>
+</div>
+<canvas id="canvas"></canvas>
+<div id="sea"></div>
+<div id="beach"></div>
+<img src="https://dl.dropbox.com/s/zoftkmdxyyqr8ce/belair.png" alt="jumping-people" id="car" />
+
+<div id="merrywrap" class="merrywrap">
+  <div class="giftbox" onclick="showContent()">
+    <div class="cover">
+      <h3 style="color: black; position: absolute; width: 100%; height: 100%;text-align: center; bottom: 80%; margin-bottom: 80px; ">please turn up your volume, then open this gift box.</h3>
+      <div></div>
+    </div>
+    <div class="box"></div>
+  </div>
+  <div class="icons">
+    <audio id="myAudio" autoplay hidden loop>
+      <source src="./assets/hbd.mp3" type="audio/mpeg">
+    </audio>
+    <div class="row kaushan"> 
+      <span>H</span>
+      <span>a</span>
+      <span>p</span>
+      <span>p</span>
+      <span>y</span>
+
+      </span>
+    </div>
+    <div class="row kaushan"> 
+      <span>B</span>
+      <span>i</span>
+      <span>r</span>
+      <span>t</span>
+      <span>h</span>
+      <span>d</span>
+      <span>a</span>
+      <span>y</span>
+    </div>
+    <div class="row kaushan"> 
+      <span>D</span>
+      <span>e</span>
+      <span>w</span>
+      <span>i</span>
+    </div>
+  </div>
+</div>
+<div class="container">
+      <div class="one">
+        <h1 class="one">
+          Hey
+          <span id="name">Dewi</span>
+        </h1>
+        <p class="two" id="greetingText">I really like your name btw!</p>
+      </div>
+      <div class="three">
+        <p>It's your birthday!!! :D</p>
+      </div>
+      <div class="four">
+        <div class="text-box">
+          <p class="hbd-chatbox">
+            Happy birthday to you!! Yeee! Many many happy blah...
+          </p>
+          <p class="fake-btn">Send</p>
+        </div>
+      </div>
+      <div class="five">
+        <p class="idea-1">That's what I was going to do.</p>
+        <p class="idea-2">But then I stopped.</p>
+        <p class="idea-3">
+          I realised, I wanted to do something <strong>special</strong>.
+        </p>
+        <p class="idea-4">Because,</p>
+        <p class="idea-5">
+          You are Special
+          <span>:)</span>
+        </p>
+        <p class="idea-6">
+          <span>S</span>
+          <span>O</span>
+        </p>
+      </div>
+      <div class="six">
+        <img src="./assets/img/dew.png" alt="" class="dewi-dp" id="imagePath" />
+        <img src="./assets/img/hat.svg" alt="" class="hat" />
+        <div class="wish">
+          <h4 class="wish-hbd">Happy Birthday!</h4>
+          <h5 id="wishText">May Allah bless you with happiness, good health and long life! ;)</h5>
+        </div>
+      </div>
+      <div class="seven">
+        <div class="baloons">
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon3.svg" alt="" />
+          <img src="./assets/img/ballon1.svg" alt="" />
+          <img src="./assets/img/ballon2.svg" alt="" />
+        </div>
+      </div>
+    </div>
+</body>
+<!-- partial -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+
+  <script  src="./assets/js/script.js"></script>
+
+</body>
+</html>
